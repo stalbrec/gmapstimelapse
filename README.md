@@ -1,4 +1,5 @@
 # GoogleMaps Timelapse
+[![Pylint](https://github.com/stalbrec/gmapstimelapse/actions/workflows/pylint.yml/badge.svg)](https://github.com/stalbrec/gmapstimelapse/actions/workflows/pylint.yml)
 
 ### Exporting your GoogleMaps Timeline
 
